@@ -2,7 +2,7 @@ products = ("pen", 1,
             "pencil", 1,
             "notebook", 10,
             "book", 20,
-            "ereaser", 2)
+            "eraser", 2)
 print ("--"*30)
 print ("Products & Prices")
 print ("--"*30)
